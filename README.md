@@ -51,26 +51,6 @@ The dataset contains Spotify track information including:
 
 ---
 
-Example:
-```md
-![Popularity Distribution](images/popularity_distribution.png)
-![Feature Correlation](images/correlation_heatmap.png)
-🚀 How to Run This Project
-# Clone the repository
-git clone https://github.com/your-username/spotify-analysis.git
-
-# Navigate to project folder
-cd spotify-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook
-📌 Future Improvements
-Build a machine learning model to predict song popularity
-Create an interactive dashboard using Power BI or Tableau
-Deploy insights using a web application (Flask/Streamlit)
 👤 Author
 Vaheeson
 Data Analyst | Python | Machine Learning Enthusiast
